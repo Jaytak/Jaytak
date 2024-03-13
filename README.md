@@ -6,7 +6,7 @@ Studying Bachelors in Information Technology (Year 2) and CS50X. Taken CS50P.
 ### Languages
 Ordered from most comfortable language to least.
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,java,html,css,js,swift,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,java,md,html,css,js,swift,c)](https://skillicons.dev)
 
 ### IDE's
 In no particular order. (We need an xcode icon!)
