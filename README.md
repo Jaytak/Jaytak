@@ -1,7 +1,7 @@
 # Hey There 👋
 
 I'm Jacob (Jay), a full-time student and part-time dev (when I get a break!). I also run Minecraft servers for friends.<br>
-Studying Bachelors in Information Technology (Year 2) and CS50X. Taken CS50P.
+Studying Bachelors in Information Technology (Y2/L6) and CS50X. Taken CS50P.
 
 ### Languages
 
