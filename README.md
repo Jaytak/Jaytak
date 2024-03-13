@@ -1,6 +1,6 @@
-# Hey there 👋
+# Hey There 👋
 
-I'm Jacob, a full time student and part time dev (when i get a break!). I also run a minecraft server for friends.<br>
+I'm Jacob, a full-time student and part-time dev (when I get a break!). I also run Minecraft servers for friends.<br>
 Studying Bachelors in Information Technology (Year 2) and CS50X. Taken CS50P.
 
 ### Languages
