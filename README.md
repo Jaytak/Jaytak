@@ -5,15 +5,15 @@ Studying Bachelors in Information Technology (Year 2) and CS50X. Taken CS50P.
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,java,md,html,css,js,swift,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,java,md,html,css,js,swift,c&perline=5)](https://skillicons.dev)
 
 ### IDE's
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,androidstudio,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,androidstudio,apple&perline=5)](https://skillicons.dev)
 
 ### Operating Systems
 
-[![My Skills](https://skillicons.dev/icons?i=windows,debian,ubuntu,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,debian,ubuntu,apple&perline=5)](https://skillicons.dev)
 
 ### Most Used Languages (From Public Repos)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaytak&layout=compact&theme=github_dark)
