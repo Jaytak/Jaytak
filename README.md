@@ -7,9 +7,9 @@ Studying Bachelors in Information Technology (Year 2) and CS50X. Taken CS50P.
 
 [![My Skills](https://skillicons.dev/icons?i=python,cs,java,md,html,css,js,swift,c&perline=10)](https://skillicons.dev)
 
-### IDE's
+### IDE's / Dev Tools
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,androidstudio,apple&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,maven,androidstudio,gradle,apple,aws,github&perline=10)](https://skillicons.dev)
 
 ### Operating Systems
 
