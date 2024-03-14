@@ -1,7 +1,7 @@
 # Hey There 👋
 
 I'm Jacob (Jay), a full-time student and part-time dev (when I get a break!). I also run Minecraft servers for friends.<br>
-Studying Bachelors in Information Technology (Y2/L6) and CS50X. Taken CS50P.
+- ⚡ Studying Bachelors in Information Technology (Y2/L6) and CS50X. Taken CS50P.
 
 ### Languages
 
@@ -16,6 +16,7 @@ Studying Bachelors in Information Technology (Y2/L6) and CS50X. Taken CS50P.
 [![My Skills](https://skillicons.dev/icons?i=windows,debian,ubuntu,apple&perline=10)](https://skillicons.dev)
 
 ### Most Used Languages (From Public Repos)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaytak&layout=compact&theme=github_dark)
 
 <!--
