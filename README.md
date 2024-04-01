@@ -8,15 +8,15 @@ I am currently studying Bachelors in Information Technology (Y2/L6) and CS50X.
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,java,md,html,css,js,swift,c&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,java,md,html,css,js,swift,c&perline=10)]()
 
 ### IDE's / Dev Tools
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,maven,androidstudio,gradle,apple,aws,github&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,maven,androidstudio,gradle,apple,aws,github&perline=10)]()
 
 ### Operating Systems
 
-[![My Skills](https://skillicons.dev/icons?i=windows,debian,ubuntu,apple&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,debian,ubuntu,apple&perline=10)]()
 
 ### Most Used Languages (From Public Repos)
 
