@@ -16,7 +16,7 @@ I am currently studying Bachelors in Information Technology (Y2/L6).
 
 ### Operating Systems
 
-[![My Skills](https://skillicons.dev/icons?i=windows,debian,ubuntu,apple&perline=10)]()
+[![My Skills](https://skillicons.dev/icons?i=windows,debian,mint,apple&perline=10)]()
 
 ### Most Used Languages (From Public Repos)
 
