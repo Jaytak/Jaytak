@@ -1,7 +1,6 @@
 # Hey There 👋
 
-I'm Jacob (Jay), a full-time student and part-time dev (when I get a break!). I also run Minecraft servers for friends.<br>
-I am currently studying Bachelors in Information Technology (Y2/L6).
+I'm Jacob (Jay), a part-time dev. I also run Minecraft servers for friends.<br>
 
 ![CS50P](https://img.shields.io/badge/HarvardX-CS50P-purple?style=flat-square)
 
