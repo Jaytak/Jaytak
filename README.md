@@ -4,6 +4,7 @@ I'm Jacob (Jay), a part-time dev. I also run Minecraft servers for friends.<br>
 
 ![CS50P](https://img.shields.io/badge/HarvardX-CS50P-purple?style=flat-square)
 
+View my plugins on [Modrinth](https://modrinth.com/user/JayTAK)
 
 ### Languages
 
