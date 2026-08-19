@@ -14,9 +14,6 @@ View my plugins on [Modrinth](https://modrinth.com/user/JayTAK)
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,maven,androidstudio,gradle,apple,aws,github&perline=10)]()
 
-### Operating Systems
-
-[![My Skills](https://skillicons.dev/icons?i=windows,debian,mint,apple&perline=10)]()
 
 <!--
 ### Most Used Languages (From Public Repos)
