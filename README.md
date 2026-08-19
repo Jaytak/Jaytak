@@ -18,11 +18,12 @@ View my plugins on [Modrinth](https://modrinth.com/user/JayTAK)
 
 [![My Skills](https://skillicons.dev/icons?i=windows,debian,mint,apple&perline=10)]()
 
+<!--
 ### Most Used Languages (From Public Repos)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaytak&layout=compact&theme=github_dark)
 
-<!--
+
 **Jaytak/Jaytak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
